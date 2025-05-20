@@ -1,0 +1,1 @@
+{"version":3,"file":"notification-context.js","sourceRoot":"","sources":["../../src/notification/notification-context.ts"],"names":[],"mappings":";;;AACA,MAAa,mBAAmB;IACtB,QAAQ,CAAuB;IAEvC,WAAW,CAAC,QAA8B;QACxC,IAAI,CAAC,QAAQ,GAAG,QAAQ,CAAC;IAC3B,CAAC;IAED,eAAe,CAAC,OAAe;QAC7B,IAAI,CAAC,QAAQ,CAAC,IAAI,CAAC,OAAO,CAAC,CAAC;IAC9B,CAAC;CACF;AAVD,kDAUC"}
